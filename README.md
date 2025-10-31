@@ -1,3 +1,3 @@
 # pythonDSA
-starting dsa
-author-kartikay mishra
+Starting dsa
+Author-kartikay mishra
